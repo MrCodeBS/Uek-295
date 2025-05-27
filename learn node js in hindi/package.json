@@ -1,0 +1,15 @@
+{
+  "name": "learn-node-js-in-hindi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "learn-node-js-in-hindi": "file:"
+  }
+}
